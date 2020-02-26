@@ -1,5 +1,6 @@
 package exercicio01;
 
+import java.util.ArrayList;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -21,7 +22,7 @@ public class Fibonacci {
      */
     public int[] getSequenciaFibonacciDe(int tamanho) {
         // TODO: implemente o código deste método
-        return null;
+
     }
 
 }
